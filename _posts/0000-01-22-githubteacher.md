@@ -7,3 +7,5 @@ title: "Welcome to our slide deck!"
 {: .center}
 
 Skittles -- taste the rainbow.
+
+How many colors are in the rainbow? :thinking:
